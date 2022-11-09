@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import MaterialTable from 'material-table'
-import Pagination from './pagination';
+// import Pagination from './pagination';
 import { TableRow } from '@material-ui/core';
 import { PagesSharp } from '@material-ui/icons';
 
